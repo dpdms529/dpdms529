@@ -7,6 +7,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=musiclove529)](https://solved.ac/musiclove529)
 
 [![dpdms529's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpdms529&count_private=true&show_icons=true&theme=swift)](https://github.com/dpdms529/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpdms529&layout=compact&theme=swift&hide=jupyter%20notebook)](https://github.com/dpdms529/github-readme-stats)
 
 <h2> :computer:Tech Stack:computer: </h2>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
