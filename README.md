@@ -14,7 +14,7 @@
 |--|--|--|--|
 |우리FIS 아카데미 클라우드 서비스 개발 과정|2024.07.08 ~ 2024.12.18|[우리 아이 경제 습관 형성 플랫폼 'WeKids'](https://github.com/woorifisa-projects-3rd/WeKids-BE)|최우수훈련생상, 융합해커톤 우수상, 기술세미나 우수상|
 |GS 리테일 주문서비스팀 인턴|2023.02.27 ~ 2023.04.21|주문 비즈니스 모니터링 툴||
-|졸업 프로젝트|2022.03.01 ~ 2022.06.13|[알고리즘 문제 추천 솔루션 '어쩔코테'](https://github.com/PSRecommender)|전북대학교 캡스톤 디자인 경진대회 동상, <br> 전주 ICT 이노베이션스퀘어 AI/BC 아이디어 공모전 참가상, <br> 한국소프트웨어 종합학술대회 논문 게재 - [문제 해결 히스토리를 고려한 프로그래밍 문제 추천 시스템](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224552)|
+|졸업 프로젝트|2022.03.01 ~ 2022.06.13|[알고리즘 문제 추천 솔루션 '어쩔코테'](https://github.com/PSRecommender)|전북대학교 캡스톤 디자인 경진대회 동상, <br> 전주ICT이노베이션스퀘어 AI/BC 아이디어 공모전 참가상, <br> 한국소프트웨어 종합학술대회 논문 게재 - [문제 해결 히스토리를 고려한 프로그래밍 문제 추천 시스템](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224552)|
 |한이음 ICT 멘토링|2021.04.13 ~ 2021.11.30|[시니어 일자리 추천 시스템 '시니잡'](https://github.com/dpdms529/SINIJOB)|한이음 공모전 입선|
 
 <h2> :computer:Tech Stack:computer: </h2>
