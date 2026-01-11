@@ -5,9 +5,11 @@
 
 <h2>:rocket: Experience :rocket:</h2>
 
-|경험|기간|프로젝트|비고|
+|경험|기간|내용|비고|
 |--|--|--|--|
-|우리FIS 아카데미 클라우드 서비스 개발 과정|2024.07.08 ~ 2024.12.18|[우리 아이 경제 습관 형성 플랫폼 'WeKids'](https://github.com/woorifisa-projects-3rd/WeKids-BE)|최우수훈련생상, 융합해커톤 우수상, 기술세미나 우수상|
+|아이티윌 오라클 DBA 과정|2025.09.26 ~ 2026.03.05|[SQL, PL/SQL, Oracle 관리, 백업 복구, 튜닝, RAC](https://joysdevlog.tistory.com/category/Courses/%EC%95%84%EC%9D%B4%ED%8B%B0%EC%9C%8C%20%EC%98%A4%EB%9D%BC%ED%81%B4%20DBA%20%EA%B3%BC%EC%A0%95)||
+|우리FIS 아카데미 클라우드 서비스 개발 과정|2024.07.08 ~ 2024.12.18|Spring, Next.js, AWS, Docker, Jenkins, [우리 아이 경제 습관 형성 플랫폼 'WeKids'](https://github.com/woorifisa-projects-3rd/WeKids-BE)|최우수훈련생상, 융합해커톤 우수상, 기술세미나 우수상|
+|DBian DB 튜닝 전문가 과정|2020.02.01 ~ 2024.06.01|[SQLP 고급 과정, StartUP Tuning For MySQL, SQLP 기본 과정, 초보자를 위한 실무 SQL 입문](http://dbian.co.kr/sub/sub04_01.php)||
 |GS 리테일 주문서비스팀 인턴|2023.02.27 ~ 2023.04.21|주문 비즈니스 모니터링 툴||
 |졸업 프로젝트|2022.03.01 ~ 2022.06.13|[알고리즘 문제 추천 솔루션 '어쩔코테'](https://github.com/PSRecommender)|전북대학교 캡스톤 디자인 경진대회 동상, <br> 전주ICT이노베이션스퀘어 AI/BC 아이디어 공모전 참가상, <br> 한국소프트웨어 종합학술대회 논문([문제 해결 히스토리를 고려한 프로그래밍 문제 추천 시스템](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224552)) 게재|
 |한이음 ICT 멘토링|2021.04.13 ~ 2021.11.30|[시니어 일자리 추천 시스템 '시니잡'](https://github.com/dpdms529/SINIJOB)|한이음 공모전 입선|
