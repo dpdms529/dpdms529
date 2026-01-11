@@ -7,7 +7,7 @@
 
 |경험|기간|내용|비고|
 |--|--|--|--|
-|아이티윌 오라클 DBA 과정|2025.09.26 ~ 2026.03.05|[SQL, PL/SQL, Oracle 관리, 백업 복구, 튜닝, RAC](https://joysdevlog.tistory.com/category/Courses/%EC%95%84%EC%9D%B4%ED%8B%B0%EC%9C%8C%20%EC%98%A4%EB%9D%BC%ED%81%B4%20DBA%20%EA%B3%BC%EC%A0%95)||
+|아이티윌 오라클 DBA 과정|2025.09.26 ~ 2026.03.05|[SQL, PL/SQL, Oracle 아키텍처, 관리, 백업 복구, 튜닝, RAC](https://joysdevlog.tistory.com/category/Courses/%EC%95%84%EC%9D%B4%ED%8B%B0%EC%9C%8C%20%EC%98%A4%EB%9D%BC%ED%81%B4%20DBA%20%EA%B3%BC%EC%A0%95)||
 |우리FIS 아카데미 클라우드 서비스 개발 과정|2024.07.08 ~ 2024.12.18|Spring, Next.js, AWS, Docker, Jenkins, [우리 아이 경제 습관 형성 플랫폼 'WeKids'](https://github.com/woorifisa-projects-3rd/WeKids-BE)|최우수훈련생상, 융합해커톤 우수상, 기술세미나 우수상|
 |DBian DB 튜닝 전문가 과정|2020.02.01 ~ 2024.06.01|[SQLP 고급 과정, StartUP Tuning For MySQL, SQLP 기본 과정, 초보자를 위한 실무 SQL 입문](http://dbian.co.kr/sub/sub04_01.php)||
 |GS 리테일 주문서비스팀 인턴|2023.02.27 ~ 2023.04.21|주문 비즈니스 모니터링 툴||
